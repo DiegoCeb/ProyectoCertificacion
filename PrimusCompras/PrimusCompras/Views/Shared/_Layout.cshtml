@@ -1,0 +1,55 @@
+﻿@*@inject SignInManager<IdentityUser> signInManager;*@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @RenderSection("Head", false)
+
+    <environment include="Development, Staging">
+        <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    </environment>
+
+    <environment include="Production">
+        <link rel="stylesheet"
+              href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+              integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
+              crossorigin="anonymous"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.css"
+              asp-suppress-fallback-integrity="true">
+    </environment>
+
+    @*@if (signInManager.IsSignedIn(User))
+    {
+        <ul>
+            <li>
+                <form method="post">
+                    <button type="submit">
+                        LogOut @User.Identity.Name
+                    </button>
+                </form>
+            </li>
+        </ul>
+    }
+    else
+    {
+
+    }*@
+
+</head>
+<body>
+    <div class="container">
+        @RenderBody()
+    </div>
+
+    <script src="~/lib/jquery/jquery.slim.min.js"></script>
+    <script src="~/lib/popper.js/umd/popper.min.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.js"></script>
+    @if (IsSectionDefined("Scripts"))
+    {
+        @RenderSection("Scripts")
+    }
+</body>
+</html>

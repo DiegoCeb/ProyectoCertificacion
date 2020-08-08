@@ -1,0 +1,9 @@
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\Cache\bin\Debug\netcoreapp3.1\Cache.deps.json
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\Cache\bin\Debug\netcoreapp3.1\Cache.dll
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\Cache\obj\Debug\netcoreapp3.1\Cache.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\Cache\obj\Debug\netcoreapp3.1\Cache.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\Cache\obj\Debug\netcoreapp3.1\Cache.AssemblyInfo.cs
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\Cache\bin\Debug\netcoreapp3.1\Cache.pdb
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\Cache\obj\Debug\netcoreapp3.1\Cache.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\Cache\obj\Debug\netcoreapp3.1\Cache.dll
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\Cache\obj\Debug\netcoreapp3.1\Cache.pdb

@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\App.ContextoPrimusDb\bin\Debug\netcoreapp3.0\App.ContextoPrimusDb.deps.json
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\App.ContextoPrimusDb\bin\Debug\netcoreapp3.0\App.ContextoPrimusDb.runtimeconfig.json
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\App.ContextoPrimusDb\bin\Debug\netcoreapp3.0\App.ContextoPrimusDb.runtimeconfig.dev.json
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\App.ContextoPrimusDb\bin\Debug\netcoreapp3.0\App.ContextoPrimusDb.dll
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\App.ContextoPrimusDb\bin\Debug\netcoreapp3.0\App.ContextoPrimusDb.pdb
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\App.ContextoPrimusDb\obj\Debug\netcoreapp3.0\App.ContextoPrimusDb.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\App.ContextoPrimusDb\obj\Debug\netcoreapp3.0\App.ContextoPrimusDb.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\App.ContextoPrimusDb\obj\Debug\netcoreapp3.0\App.ContextoPrimusDb.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\App.ContextoPrimusDb\obj\Debug\netcoreapp3.0\App.ContextoPrimusDb.AssemblyInfo.cs
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\App.ContextoPrimusDb\obj\Debug\netcoreapp3.0\App.ContextoPrimusDb.dll
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\App.ContextoPrimusDb\obj\Debug\netcoreapp3.0\App.ContextoPrimusDb.pdb
+C:\Users\pc\Desktop\ProyectoCertificacion\proyecto\PrimusCompras\App.ContextoPrimusDb\obj\Debug\netcoreapp3.0\App.ContextoPrimusDb.genruntimeconfig.cache
