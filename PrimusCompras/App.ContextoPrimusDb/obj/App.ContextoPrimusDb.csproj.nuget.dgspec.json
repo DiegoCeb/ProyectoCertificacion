@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\App.ContextoPrimusDb\\App.ContextoPrimusDb.csproj": {}
+    "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\App.ContextoPrimusDb\\App.ContextoPrimusDb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\App.ContextoPrimusDb\\App.ContextoPrimusDb.csproj": {
+    "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\App.ContextoPrimusDb\\App.ContextoPrimusDb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\App.ContextoPrimusDb\\App.ContextoPrimusDb.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\App.ContextoPrimusDb\\App.ContextoPrimusDb.csproj",
         "projectName": "App.ContextoPrimusDb",
-        "projectPath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\App.ContextoPrimusDb\\App.ContextoPrimusDb.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\App.ContextoPrimusDb\\App.ContextoPrimusDb.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\App.ContextoPrimusDb\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\App.ContextoPrimusDb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

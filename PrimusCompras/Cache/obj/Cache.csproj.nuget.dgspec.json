@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\Cache\\Cache.csproj": {}
+    "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\Cache\\Cache.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\Cache\\Cache.csproj": {
+    "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\Cache\\Cache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\Cache\\Cache.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\Cache\\Cache.csproj",
         "projectName": "Cache",
-        "projectPath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\Cache\\Cache.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\Cache\\Cache.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\Cache\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\Cache\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

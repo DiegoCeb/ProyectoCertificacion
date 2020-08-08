@@ -6018,11 +6018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\App.API\\App.API.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\App.API\\App.API.csproj",
       "projectName": "App.API",
-      "projectPath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\App.API\\App.API.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\App.API\\App.API.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\App.API\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\App.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6043,8 +6043,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\App.ContextoPrimusDb\\App.ContextoPrimusDb.csproj": {
-              "projectPath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\App.ContextoPrimusDb\\App.ContextoPrimusDb.csproj"
+            "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\App.ContextoPrimusDb\\App.ContextoPrimusDb.csproj": {
+              "projectPath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\App.ContextoPrimusDb\\App.ContextoPrimusDb.csproj"
             }
           }
         }

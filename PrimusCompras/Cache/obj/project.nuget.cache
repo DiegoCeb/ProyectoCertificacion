@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4HyiN8aAatX09qUwwtBVq3rRC2WqreYq1Dw3sTn6IduDva/SJBZJqxyr873UxtbWtDKaNiPWvk4cVXd8oVPdYQ==",
+  "dgSpecHash": "BnZ9sYp0FExNm7Au9rFP+4jmScrGQlWnTiQkh1/Bg7n0b2irHiWcfpN9FayoCwr556Y1OzAj04OBX2p9h8jqKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\Cache\\Cache.csproj",
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\Cache\\Cache.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

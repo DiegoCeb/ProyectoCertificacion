@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "opGd+sDhIkHTFbbjdIBNXzei+Qemu75E9eKM+IDrw3xeYHZWvp08seF60JqOiOh3vdc/y01R0RSchE+hdAcLlg==",
+  "dgSpecHash": "1pEDvgV+6K+8eDvR4J3gEUEuqbJZZhMcgR3Aau/1OX2rJO8m1NiANn+lvIdAqY5Pql4Z32XngDuZoQUhz8gR3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\PrimusCompras\\App.ContextoPrimusDb\\App.ContextoPrimusDb.csproj",
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\ProyectoCertificacion\\proyecto\\ProyectoCertificacion\\PrimusCompras\\App.ContextoPrimusDb\\App.ContextoPrimusDb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.6\\microsoft.aspnetcore.cryptography.internal.3.1.6.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.6\\microsoft.aspnetcore.cryptography.keyderivation.3.1.6.nupkg.sha512",

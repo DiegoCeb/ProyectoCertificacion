@@ -22,7 +22,7 @@ namespace App.API.Contracts.V1
             public const string Create = Base + "/productos";
             public const string Get = Base + "/productos/{productoId}";
             public const string Update = Base + "/productos/{productoId}";
-
+            public const string Delete = Base + "/productos/{productoId}";
         }
 
         public static class Identity

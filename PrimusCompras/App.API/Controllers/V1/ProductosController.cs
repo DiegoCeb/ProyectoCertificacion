@@ -119,5 +119,27 @@ namespace App.API.Controllers.V1
             return Ok(productoUpdated);
 
         }
+
+
+        [HttpDelete(ApiRoutes.Productos.Delete)]
+        public async Task<IActionResult> Delete([FromRoute] Guid productoId)
+        {
+            var producto = await _productosRepository.Get(productoId);
+
+            if (producto == null) return NotFound();
+
+            var eliminado = await _productosRepository.Delete(productoId);
+
+            return Ok(new ProductosResponse 
+            {
+                Id = productoId,
+                Nombre = eliminado.Nombre,
+                Descripcion = eliminado.Descripcion,
+                PrecioProducto = eliminado.PrecioProducto,
+                Categoria = eliminado.Categoria,
+                Marca = eliminado.Marca
+            });
+        }
+
     }
 }
